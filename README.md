@@ -21,3 +21,15 @@
 ちなみにこれは、Facebookがウェプサイトの「速さ」の指標としている「TTI (Time-to-Interact)」のオマージュである。
 
 参照: [Making Facebook 2x Faster](https://www.facebook.com/notes/facebook-engineering/making-facebook-2x-faster/307069903919 "Making Facebook 2x Faster")
+
+### Time Rich or Time Poor?
+
+プロダクトは、ユーザからなにかを提供してもらって、代わりになにかを提供する。その結果として、ユーザに「得だ」と感じてもらえれば、定着につながるだろう。
+
+たとえば「500円を入れたら1000円が出てくるマシン」を設置すれば、ユーザは喜んで使ってくれるはずだ。ただ、こんなプロダクトを提供したい人はいない。
+
+筋がいいのは、ユーザが持て余しているものをもらって、ユーザに足りていないものを返すやり方だ。だから、ユーザがなにを持て余していて、逆になにが足りていないのかを正しく把握することが大切になる。どれだけおいしい料理も、満腹の人には食べてもらえない。
+
+特にユーザが「時間が足りなくて困っているのか」「ヒマを潰したいと思っているのか」を見極めることは大事。自分たちの提供するプロダクトは、業務を効率化するツールとして使われるのか、長いこと遊べるゲームになるのか、より日々を豊かにするためのラグジュアリィなのか、意識しておいた方がよい。
+
+参照: [Time Rich or Time Poor? | Lightspeed Venture Partners Blog](https://lsvp.wordpress.com/2007/03/19/time-rich-or-time-poor/ "Time Rich or Time Poor? | Lightspeed Venture Partners Blog")
