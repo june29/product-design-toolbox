@@ -35,3 +35,11 @@
 特にユーザが「時間が足りなくて困っているのか」「ヒマを潰したいと思っているのか」を見極めることは大事。自分たちの提供するプロダクトは、業務を効率化するツールとして使われるのか、長いこと遊べるゲームになるのか、より日々を豊かにするためのラグジュアリィなのか、意識しておいた方がよい。
 
 参照: [Time Rich or Time Poor? | Lightspeed Venture Partners Blog](https://lsvp.wordpress.com/2007/03/19/time-rich-or-time-poor/ "Time Rich or Time Poor? | Lightspeed Venture Partners Blog")
+
+### クラスでいちばんかわいい子
+
+1位はやっぱりうれしい。それがたとえ、全体ランキングではなくて部門別ランキングであったとしても、だ。だから大事なのは「クラスでいちばんかわいい子」が存在することで、それを「世界ランキングでは24,917位です」というのは野暮なことだし、もはや認知の限界を越える情報を与えても意味がない。
+
+各ユーザから見える範囲のグローカルを守っていくことが大事。各ユーザにとっては、見えているものがすべてであり、世界である。その世界で意味を成す情報を提示すべき。
+
+参照: [GitHub Awards : Discover your ranking on GitHub](http://github-awards.com/ "GitHub Awards : Discover your ranking on GitHub") (地域ごとの順位が出る例)
