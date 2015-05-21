@@ -43,3 +43,7 @@
 各ユーザから見える範囲のグローカルを守っていくことが大事。各ユーザにとっては、見えているものがすべてであり、世界である。その世界で意味を成す情報を提示すべき。
 
 参照: [GitHub Awards : Discover your ranking on GitHub](http://github-awards.com/ "GitHub Awards : Discover your ranking on GitHub") (地域ごとの順位が出る例)
+
+### 台詞目標
+
+なにかしらの取り組みの結果として、対象者から「こういう発言があったら成功」「こういうツイートをしてもらえたら成功」と、目標として設定される望ましい台詞のこと。
