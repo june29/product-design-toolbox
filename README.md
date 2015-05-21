@@ -47,3 +47,9 @@
 ### 台詞目標
 
 なにかしらの取り組みの結果として、対象者から「こういう発言があったら成功」「こういうツイートをしてもらえたら成功」と、目標として設定される望ましい台詞のこと。
+
+## よく知られた道具
+
+- [Lean Canvas](http://leanstack.com/app/ "Lean Canvas")
+- [Business Model Canvas](http://www.businessmodelgeneration.com/canvas/bmc "Business Model Generation - BMC")
+- [The Agile Inception Deck](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/ "The Agile Inception Deck | The Agile Warrior")
